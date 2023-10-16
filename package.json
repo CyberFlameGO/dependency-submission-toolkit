@@ -34,7 +34,7 @@
     "@actions/exec": "^1.1.1",
     "@actions/github": "^5.0.0",
     "@octokit/rest": "^18.12.0",
-    "openapi-typescript": "^5.2.0",
+    "openapi-typescript": "^5.4.1",
     "packageurl-js": "0.0.6"
   },
   "devDependencies": {
